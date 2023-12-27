@@ -1,4 +1,4 @@
-package com.tutorial.security.entities;
+package com.tutorial.security.user;
 
 public enum Role {
     USER,
